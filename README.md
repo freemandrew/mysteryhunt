@@ -1,0 +1,4 @@
+mysteryhunt
+===========
+
+Mystery Hunt Scripts
